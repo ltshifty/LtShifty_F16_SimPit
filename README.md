@@ -1,7 +1,7 @@
 # LtShifty_F16_SimPit
 Here are my design files for my F16 SimPit. These are only for the electronics panels, the frame for the Pit was purchased from Tejay, please contact me and I will happily forward his details to you.
 
-They are provided free of charge strictyly for non-commercial use, if you would like to use these for a commercial venture please get in touch and we can discuss.
+They are provided free of charge strictly for non-commercial use, if you would like to use these for a commercial venture please get in touch and we can discuss.
 
 All reference images are kindly provided with permission by https://xflight.de, all copright of these images remain solely that of xflight.de.
 
